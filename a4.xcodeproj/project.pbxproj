@@ -64,7 +64,6 @@
 				FCEA36432999E2FB00C3C2B5 /* SceneDelegate.swift */,
 				FCEA365B2999F09F00C3C2B5 /* Model */,
 				FCEA365A2999F07C00C3C2B5 /* View */,
-				FCEA36452999E2FB00C3C2B5 /* ViewController.swift */,
 				FCEA36472999E2FB00C3C2B5 /* Main.storyboard */,
 				FCEA364A2999E2FC00C3C2B5 /* Assets.xcassets */,
 				FCEA364C2999E2FC00C3C2B5 /* LaunchScreen.storyboard */,
@@ -76,6 +75,7 @@
 		FCEA365A2999F07C00C3C2B5 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				FCEA36452999E2FB00C3C2B5 /* ViewController.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
